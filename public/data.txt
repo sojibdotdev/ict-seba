@@ -1,0 +1,32 @@
+Services list
+১. তথ্য ও যোগাযোগ প্রযুক্তি ( HSC )
+২. কম্পিউটার অফিস অ্যাপ্লিকেশন
+৩ গ্রাফিক্স ডিজাইন 
+৪. ওয়েব ডিজাইন এ্যান্ড ডেভেলপমেন্ট
+৫. কম্পিউটার কম্পোজ 
+6. কম্পিউটার প্রিন্ট
+7. ফটোস্ট্যাট 
+8. স্ক্যান ও লিমিনেটিং
+9. ইমেইল সেবা
+10. রেজাল্ট প্রিন্ট
+11. ই টিন সার্টিফিকেট
+12. চাকরির আবেদন 
+13. ভর্তি আবেদন 
+14. জন্ম নিবন্ধন আবেদন 
+15. আইডি কার্ড সংশোধন
+
+1. Information and Communication Technology (HSC)
+2. Computer Office Applications
+3 Graphics design
+4. Web Design and Development
+5. Computer Compose
+6. ComputerPrint
+7. Photostat
+8. Scanning and Laminating
+9. Email Services
+10. Print Result
+11. E Tin Certificate
+12. Job Application
+13. Application for Admission
+14. BirthRegistration Application
+15. Amendment of IDCard
